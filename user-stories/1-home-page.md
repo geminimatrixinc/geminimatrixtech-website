@@ -1,6 +1,7 @@
 # User Story 1: Home Page
 
 As a user,
+
 I want to visit the home page with a main content block showcasing technology services,
 So that I can understand the company's focus on pioneering technology empowerment and easily navigate to other sections.
 

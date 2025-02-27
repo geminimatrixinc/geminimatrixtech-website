@@ -8,5 +8,5 @@ So that I can gain a better understanding of what the company offers in blockcha
 # Acceptance Criteria:
 
 - The About Us page includes the same navigation menu as the home page (Home, About, Contact).
-- A carousel widget is present, showcasing the technology services offered (blockchain, artificial intelligence, and web development).
 - The page provides detailed information about each service.
+
